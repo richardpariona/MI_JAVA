@@ -3,12 +3,27 @@
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
-# Package Files #
-*.jar
-*.war
-*.ear
+
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 /clase 1/PedidoApp/nbproject/private/
 /clase 1/PedidoApp/build/
+/clase 1/AprendiendoJava/nbproject/private/
+/clase 1/AprendiendoJava/build/
+/clase 2/PagoAPP/nbproject/private/
+/clase 2/PagoAPP/build/
+/clase 2/JavaApplication4/nbproject/private/
+/clase 2/EduTecLib/nbproject/private/
+/clase 2/EduTecApp/nbproject/private/
+/clase 2/MateApp/nbproject/private/
+/clase 2/MateApp/build/
+/clase 2/AprendiendoJava/nbproject/private/
+/clase 2/AprendiendoJava/build/
+/clase 2/HTML5Application/nbproject/private/
+/clase 2/JavaApplication8/nbproject/private/
+/clase 2/VentaApp/nbproject/private/
+/clase 2/JavaApplication10/nbproject/private/
+/clase 2/JavaApplication10/build/
+/clase 2/AprendiendoJava2/nbproject/private/
+/clase 2/AprendiendoJava2/build/
